@@ -1,4 +1,4 @@
-._.DS_Store
-._.git
-._.gitignore
-._LICENSE.md
+**/._*
+**/._.*
+**/.DS_Store
+**/.vscode
